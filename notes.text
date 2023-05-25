@@ -1,0 +1,9 @@
+// <> se numesc tags
+
+<html></html> // opening and closing tag
+<input /> // self-closing tag (practic nu am nevoie de un tag seprata de opening si unul de closing)
+<p>hello , my name is Andra</p> => paragraph 
+
+List of lists
+unordered list
+ordered list
